@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 live app: https://shopping-hopping01.vercel.app/
 (https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/Akashk21/Shopping-Hopping/assets/71625383/7d2a5d22-1dfa-4b58-bbd3-ba805db4cd21)
+
+
 ## Getting Started
 
 First, run the development server:
